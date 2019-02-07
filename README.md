@@ -8,5 +8,8 @@ Many field crops take years to develop new varieties since only 1-3 generations 
 By crossing OSU’s SWS wheat with CSU’s CoAxium HRW wheat and continuing to backcross with spring wheat, the generation time is shortened by 6 weeks per generation. The last few crosses of the scheme will be with OSU’s SWW wheat where only the soft and glutenin genes will need to be selected for potentially shortening the breeding scheme by 4 months compared to the control or conventional scheme.
 
 Markers will be used to identify 2 of the 3 resistance genes, seed color, hardness, and glutenin genes.
+Dates recorded keeping track of generation times of the two breeding schemes to compare time
+quality test at the end to see if the two breeding schemes produced similar cultivars
+
 
 https://richterc13.github.io/GRAD521_DMPRichter_2019-/
