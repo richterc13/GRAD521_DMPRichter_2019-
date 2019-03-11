@@ -26,6 +26,14 @@ My data will be stored on my lab's R drive and on my own personal laptop. The R 
 Any information on my laptop will be saved forever and will be backed up again using a "time machine". The informaiton on the R drive will be saved for at least a few years, but might be condensed in a few years and only the important documents are maintained but as a breeding program, files tend to be saved to look back on information on different varieties. 
 
 # Access and data sharing
+There are no factors that will restrict the sharing of the data my group has produced. Although we may not publish all of our data, if someone was curious, for example, how many herbicide resistant plants we had for each generation of breeding, we could easily look that up and share it. A chart of the other desired genes that were carried through each generation of breeding may also be created. The CoAxium Wheat was originally created by Colorado Wheat Research Foundation and owns the patent on the herbicide resistance gene. Therefore, my PI had to pay a trait fee to get seeds to work with but I do not have any restrictions for my project.
+
+Some of the data will be publicly available when I publish my thesis. The rest will be available through a supplementary file or upon request. My thesis and research has to do with a potential new breeding scheme so documenting and its progression is the most important data that I can make that publicly available once I publish my thesis. Since we created our own KASP markers to run our DNA samples (and see which genes they carry) we can share the marker and primer data. In terms of policies governing the reuse, redistribution and creation of derivatives of the data/licenses, there will not be any policies for the data I generate. There is only a limitation on sharing the germplasm we produce with other breeding institutions. Anyone who requests to use the germplasm will need a license, similar to what we had to acquire at the start of our project.
+
+There is a server (the “R” drive) that our lab has accessed to and is backed up and supported through ROOTS. I will have control and access of my data and will be available to others in my group as well. The data will be archived and preserved forever. The formats will be in Excel, Word and StepOne files (the format that the StepOne machine uses and detects the presence of certain genes/alleles, can also export data into Excel files). 
+
+
+
 
 # Archiving and preservation
 
