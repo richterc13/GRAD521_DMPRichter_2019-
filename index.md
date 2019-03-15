@@ -1,6 +1,6 @@
 Spring wheat to accelerate introgression of herbicide resistance from hard red winter wheat to Oregon soft white winter wheat
 
-Creators: Colette Richter
+Creator: Colette Richter
 
 Affiliation: Oregon State University
 
